@@ -1,7 +1,7 @@
-#C programming project
+##C programming project##
 
 
-**For class, game score4
+**For class, game score4**
 
 	Rules and stuff
 
